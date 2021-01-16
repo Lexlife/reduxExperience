@@ -4,8 +4,8 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "start": "webpack-dev-server --open",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --open"
   },
   "keywords": [],
   "author": "Alexander Semenov created this code based on a lecture by Vladilen Minin",
