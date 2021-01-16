@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "build": "webpack --mode production",
-    "start": "yarn && webpack-dev-server --open"
+    "start": "webpack-dev-server --open && yarn start"
   },
   "keywords": [],
   "author": "Alexander Semenov created this code based on a lecture by Vladilen Minin",
